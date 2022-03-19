@@ -1,5 +1,5 @@
 
-# Maze Solving ML Agent
+# Circle Pop
 
 A simple game you click when the square collision with the bar.
 
